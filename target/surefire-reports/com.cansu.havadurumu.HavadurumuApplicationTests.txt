@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cansu.havadurumu.HavadurumuApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.137 sec - in com.cansu.havadurumu.HavadurumuApplicationTests
